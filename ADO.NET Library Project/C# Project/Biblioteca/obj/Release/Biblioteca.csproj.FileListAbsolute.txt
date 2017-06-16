@@ -1,0 +1,15 @@
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Release\Biblioteca.exe.config
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Release\Biblioteca.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Release\Biblioteca.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Presentation_Layer.ChangePassword.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Presentation_Layer.ChangePermissions.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Presentation_Layer.ChangeUsername.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Presentation_Layer.Login.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.MainForm.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Presentation_Layer.UserDetails.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\Dan\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.Presentation_Layer.NewRegistration.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache

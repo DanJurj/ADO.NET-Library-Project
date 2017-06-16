@@ -1,0 +1,68 @@
+c:\users\dan\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePassword.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePermissions.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangeUsername.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.Login.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.UserDetails.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Dan\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Dan\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.NewRegistration.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePassword.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePermissions.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangeUsername.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.Login.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.NewRegistration.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.UserDetails.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Dan\Desktop\Proiect Ghimes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePassword.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePermissions.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangeUsername.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.Login.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.NewRegistration.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.UserDetails.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.manifest
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\bin\Debug\Biblioteca.application
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe.manifest
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\Biblioteca\obj\Debug\Biblioteca.application
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\bin\Debug\Biblioteca.exe.manifest
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\bin\Debug\Biblioteca.application
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePassword.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangePermissions.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.ChangeUsername.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.Login.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.NewRegistration.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Presentation_Layer.UserDetails.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.exe.manifest
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.application
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Dan\Desktop\[Proiect Baze de Date] [Jurj Danut] [E213A]\Proiect Visual\Biblioteca\obj\Debug\Biblioteca.pdb
